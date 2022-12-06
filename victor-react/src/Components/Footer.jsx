@@ -5,10 +5,10 @@ const Footer = () => {
     <div className="container">
         <div className="row py-5">
             <div className="col-md-8">
-            <a href="#"> FB</a>
-            <a href="#">IG</a>                
-            <a href="#">TW</a>
-            <a href="#">Map</a> 
+            <a href="#"className="ms-2"><img src={"images/facebook.svg"}alt ={"Facebook"} width={35}/></a>
+            <a href="#"className="ms-2"><img src={"images/instagram.svg"}alt ={"Instagram"} width={35}/></a>                
+            <a href="#"className="ms-2"><img src={"images/twitter.svg"}alt ={"Twitter"} width={35}/></a>
+            <a href="#"className="ms-2"><img src={"images/geo-alt.svg"}alt ={"Twitter"} width={35}/></a>
             </div>
             <div className="col-md-4 text-center">
             <span>Copyright &copy; Victor Guala - 2022</span>

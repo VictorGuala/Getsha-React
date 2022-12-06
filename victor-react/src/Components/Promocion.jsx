@@ -2,7 +2,7 @@ import React from "react";
 
 const Promociones = ()=>{
     return(
-        <div className="container-fluid bg-info">
+        <div className="container-fluid bg-info mt-4">
             <div className="container">
                 <div className="row">
                     <div className="col-md-4 ">
