@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import { useParams } from "react-router-dom";
 import arrayProducts from "./Json/Products.json";
-import ItemCount from "./ItemCount";
+// import ItemCount from "./ItemCount";
 import ItemList from "./ItemList";
 
 const ItemListContainer = () => {
